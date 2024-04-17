@@ -1,5 +1,9 @@
 # Some feature
 
+## Updates
+
+Adding more info to the file to test GitHub Actions.
+
 ## Subsection
 
 Exciting documentation in here.
